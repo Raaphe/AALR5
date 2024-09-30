@@ -14,7 +14,7 @@ public class Main {
 
     public static int Quiz() {
         try {
-            File fichier = new File("src/main/resources/input.txt");
+            File fichier = new File("src/resources/input.txt");
             Scanner lecteur = new Scanner(fichier);
 
             while (lecteur.hasNextLine()) {
