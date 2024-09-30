@@ -1,5 +1,4 @@
 # Aide à la réussite Challenge
----
 
 
 Le input du challenge ressemblera à ceci :
